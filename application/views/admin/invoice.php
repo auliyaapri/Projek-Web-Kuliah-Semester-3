@@ -30,7 +30,7 @@
             <td><?php echo $inv->jasa; ?> </td>
             <td>
                 <?php echo anchor('admin/invoice/detail/'.$inv->id, '<div class="btn btn-sm btn-warning">Detail</div>' ) ?>
-                <?php echo anchor('admin/invoice/hapus/'.$inv->id, '<div class="btn btn-sm btn-danger">Hapus</div>' ) ?>
+              
                 <!-- Art -->
             </td>
         </tr>
