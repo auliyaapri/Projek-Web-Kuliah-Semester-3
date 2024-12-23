@@ -30,7 +30,7 @@ Solid Store menawarkan berbagai kategori furnitur, di antaranya:
 - Bootstrap
 - PHP, CodeIgniter 3
 
-  ## 🔧 Panduan Instalasi
+## 🔧 Panduan Instalasi
 
 ### Prasyarat
 
