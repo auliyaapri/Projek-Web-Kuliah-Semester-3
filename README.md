@@ -10,7 +10,7 @@ Solid Store menawarkan berbagai kategori furnitur, di antaranya:
 
 
 ## 💻 Demo Website
-![image](https://github.com/user-attachments/assets/31ecf9fb-2399-4708-9b84-4ad73e1a3c36)
+
 
 https://www.youtube.com/watch?v=OCJJ4_BYnv4
 
