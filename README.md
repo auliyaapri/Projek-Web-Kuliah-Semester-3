@@ -24,10 +24,6 @@ Solid Store menawarkan berbagai kategori furnitur, di antaranya:
 ## 📜 Tampilan Admin - Invoice
 ![firefox_xslWjsX8HE](https://github.com/user-attachments/assets/9fbf6a35-5798-4e58-bed9-c246cbe5e44b)
 
-https://www.youtube.com/watch?v=OCJJ4_BYnv4
-
-
-
 
 ## 🚀 Tech Stack Used
 - HTML, CSS , Javascript
