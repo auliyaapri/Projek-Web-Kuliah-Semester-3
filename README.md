@@ -9,19 +9,19 @@ Solid Store menawarkan berbagai kategori furnitur, di antaranya:
 - Hiasan dinding, untuk menambah keindahan dan estetika rumah.
 
 
-## 💻 Tampilan Menu
+## 🖼️ Tampilan Menu
 ![firefox_iCMhnh3s5l](https://github.com/user-attachments/assets/ee774384-c8e3-4cad-815b-21ca34ddae14)
 
-## 💻 Tampilan Login
+## 🔒 Tampilan Login
 ![firefox_aTNgoDxWIX](https://github.com/user-attachments/assets/1f658d1a-5afb-4442-be7c-287d5428ca9b)
 
-## 💻 Tampilan Register
+## 📝 Tampilan Register
 ![firefox_L1OXxRCkcn](https://github.com/user-attachments/assets/64e4acc8-851e-410f-821c-c51fe845136b)
 
-## 💻 Tampilan Admin - Product
+## 🛒 Tampilan Admin - Product
 ![firefox_Cd4MG64Qih](https://github.com/user-attachments/assets/edc5e192-20f2-4604-aeef-dade8c842583)
 
-## 💻 Tampilan Admin - Invoice
+## 📜 Tampilan Admin - Invoice
 ![firefox_xslWjsX8HE](https://github.com/user-attachments/assets/9fbf6a35-5798-4e58-bed9-c246cbe5e44b)
 
 https://www.youtube.com/watch?v=OCJJ4_BYnv4
